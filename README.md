@@ -22,6 +22,24 @@ ARGuide – Navigation Personalised.
 
 ### Installation
 
+#### Build
+
+1.  Enable "Install Apps from unknown Sources" from device settings.
+
+2.  Click on the apk file to install.
+
+3.  Click on the icon to run. 
+
+#### Project 
+
+Step 1.  Fork this repository.
+
+Step 2.  Clone it to your local device. Replace [your-name] with your github profile.
+```
+git clone https://github.com/[your-name]/AR-GUIDE.git
+```
+Step 3.  Open the project and start working on it.
+
 ---
 
 ## Usage

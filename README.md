@@ -26,6 +26,8 @@ ARGuide – Navigation Personalised.
 
 ## Usage
 
+The primary objective of the application is to provide custom navigation for personal or private areas incorporating Augmented Reality.
+
 ---
 
 ## Roadmap

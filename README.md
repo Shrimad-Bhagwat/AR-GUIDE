@@ -20,6 +20,11 @@ ARGuide – Navigation Personalised.
 
 ### Prerequisites
 
+- Unity v.2021.3.12f1
+- Unity XR plugin
+- AR Foundation
+- AR Core - Android
+
 ### Installation
 
 #### Build

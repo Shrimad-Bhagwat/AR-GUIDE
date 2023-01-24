@@ -14,6 +14,23 @@ ARGuide – Navigation Personalised.
 
 ## Built With
 
+<div style="text-align:center;">
+
+
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="badge"/>
+
+<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="badge"/>
+
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="badge"/>
+
+
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="badge"/>
+
+
+
+</div>
+
 ---
 
 ## Getting Started
@@ -53,6 +70,4 @@ The primary objective of the application is to provide custom navigation for per
 
 ---
 
-## Roadmap
 
----

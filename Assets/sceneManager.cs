@@ -11,4 +11,14 @@ public class sceneManager : MonoBehaviour
     public void back(){
         SceneManager.LoadScene("GetStarted");
     }
+    public void openCredits(){
+        SceneManager.LoadScene("Credits");
+    }
+    public void openHowToUse(){
+        SceneManager.LoadScene("HowToUse");
+    }
+    public void exit(){
+        Debug.Log("Exit");
+         Application.Quit();
+    }
 }

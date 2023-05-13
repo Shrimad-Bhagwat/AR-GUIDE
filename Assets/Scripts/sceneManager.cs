@@ -17,6 +17,9 @@ public class sceneManager : MonoBehaviour
     public void openHowToUse(){
         SceneManager.LoadScene("HowToUse");
     }
+    public void openGithub(){
+        Application.OpenURL("https://github.com/Shrimad-Bhagwat/AR-GUIDE");
+    }
     public void exit(){
         Debug.Log("Exit");
          Application.Quit();
